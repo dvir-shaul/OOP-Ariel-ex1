@@ -1,7 +1,7 @@
 package ex1.tests;
 
 import org.junit.jupiter.api.Test;
-
+import ex1.src.*;
 import java.util.LinkedList;
 
 import static org.junit.jupiter.api.Assertions.*;
